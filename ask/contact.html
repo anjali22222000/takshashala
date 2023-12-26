@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initialscale=1.0">
+        <title>
+college Website Design
+        </title>
+        <link rel="stylesheet" href="main.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/css/fontawesome.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    </head>
+    <body>
+        <section class=" sub-header">
+            <nav>
+                <a href="main.html"><img src="logogwp.jpg"></a>
+                <div class="nav-links" id="navLinks">
+                    <i class="fa fa-times" onClick="hideMenu()"></i>
+                    <ul>
+                        <li><a href="main.html">HOME</a></li>
+                        <li><a href="about.html">ABOUT</a></li>
+                        <li><a href="course.html">COURSE</a></li>
+                        <li><a href="blog.html">BLOG</a></li>
+                        <li><a href="contact.html">CONTACT</a></li>
+                        <li><a href="notice.html">NOTICE</a></li>
+                        <li><a href="gallery.html">GALLARY</a></li>
+                    </ul>
+                </div>
+                <i class="fa fa-bars" onClick="showMenu()"></i>
+            </nav>
+             <h1> Contact Us</h1>
+        </section>
+
+        <!-- ---------contact-us---------- -->
+        <section  class = "location" >
+           
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3598.431062706802!2d85.07402447539474!3d25.590588577459908!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ed57babb89184b%3A0xb0d028e399dea3d7!2sGovernment%20Women&#39;s%20Polytechnic!5e0!3m2!1sen!2sin!4v1703333461381!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        </section>
+
+        <section  class = "contact-us" >
+            <div class = "row">
+                <div class = "contact-col" >
+                    <div >
+                        <i  class = "fa fa-home" ></i>
+                        <span>
+                            <h5> +91  4563879876</h5>
+                            <p>Monday to Saturday , 10AM to 6PM</p>
+                        </span>
+                        <span>
+                            <h5>Phulwari Sharif  ,Sahaya Nagar</h5>
+                            <p>Patna , Bihar</p>
+                        </span>
+                    </div>
+                    <div >
+                        <i class = "fa fa-envelope-o"></i>
+                        <span>
+                            <h5>gwppatna@gmail.com </h5>
+                            <p>Email us your query</p>
+                        </span>
+                    </div>
+                </div>
+                <div class = "contact-col" >
+
+
+
+                    <form action = "">
+                        <input type="text" placeholder="Enter your name " required>
+                        <input type="email" placeholder="Enter your e-mail " required> 
+                        <input type="text" placeholder="Enter your subject " required>
+                        <textarea rows="8" placeholder ="Message " required></textarea>
+                    </form>
+                </div>
+            </div>
+        </section>
+
+        <!-- -----FOOTER------ -->
+
+        <section class = "footer" >
+            <h4>ABOUT US</h4>
+            <P>Government Women's Polytechnic, Patna is a college in Bihar that was established in 1985.<br>
+                It is affiliated with the State Board of Technical Education, Patna and<br>
+                 approved by the All India Council for Technical Education (AICTE).
+            </P>
+            <div class = "icon">
+                <i class="fa-brands fa-square-x-twitter"></i>
+                <i class="fa-brands fa-instagram"></i>
+                <i class="fa-brands fa-facebook"></i>
+                <i class="fa-brands fa-linkedin"></i>
+                        </div>
+
+            <p>Made        <i class="fa-solid fa-heart">    </i>        By   Pre   Thinkers</p>
+
+        </section>
+
+
+        
+
+
+
+        <script>
+            var navLinks=document.getElementById("navLinks")
+            function showMenu(){
+                navLinks.style.right="0";
+            }
+            function hideMenu(){
+                navLinks.style.right="-200px";
+            }
+        </script>
+
+    </body>
+    
+
+
+</html>
