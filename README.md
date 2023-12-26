@@ -50,9 +50,9 @@ Thank you for considering contributing to this project! Here are the basic steps
 5. Create a new **Pull Request**.
 
 ## Contact
-- Email: [trisha.mishra08@gmail.com](mailto:your@mail.com) | LinkedIn: [Your Name](https://www.linkedin.com/in/äňjälï-mïšhřä-7b8698297)
-- Email: [ankitasaloni8@gmail.com](mailto:your1@mail.com) | LinkedIn: [Your1 Name](https://www.linkedin.com/in/ankita-saloni-07100427b)
-- Email: [samikshapatel2004@gmail.com](mailto:your@mail.com) | LinkedIn: [Your Name](https://www.linkedin.com/in/samiksha-patel-2738152a1)
-- Email: [amishakumaripoly2003@gmail.com](mailto:your1@mail.com) | LinkedIn: [Your1 Name](https://www.linkedin.com/in/amisha-kumari-9513642a4)
-- Email: [khushboo0434@gmail.com](mailto:your@mail.com) | LinkedIn: [Your Name](https://www.linkedin.com/in/khushboo-kumari-6926b22a4)
+- Email: [trisha.mishra08@gmail.com](mailto:your@mail.com) | LinkedIn: [Anjali Kumari](https://www.linkedin.com/in/äňjälï-mïšhřä-7b8698297)
+- Email: [ankitasaloni8@gmail.com](mailto:your1@mail.com) | LinkedIn: [Ankita Saloni](https://www.linkedin.com/in/ankita-saloni-07100427b)
+- Email: [samikshapatel2004@gmail.com](mailto:your@mail.com) | LinkedIn: [Samiksha Patel](https://www.linkedin.com/in/samiksha-patel-2738152a1)
+- Email: [amishakumaripoly2003@gmail.com](mailto:your1@mail.com) | LinkedIn: [Amisha Kumari](https://www.linkedin.com/in/amisha-kumari-9513642a4)
+- Email: [khushboo0434@gmail.com](mailto:your@mail.com) | LinkedIn: [Khushboo Kumari](https://www.linkedin.com/in/khushboo-kumari-6926b22a4)
 
