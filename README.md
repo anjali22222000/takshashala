@@ -16,6 +16,8 @@ A college website aims to communicate the college's identity, values, and offeri
 
 
 ]
+
+
 ## Installation
 
 Following are the installation process of our College Website
